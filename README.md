@@ -6,7 +6,7 @@ Additionally, as a beginner developer, I am building my skills as a front-end we
 
 - 🔭 I’m currently working on a few portfolio projects.
 - 🌱 I’m currently expanding my knowledge and expertise in the field of machine learning. Additionally, I am actively engaged in learning more about front-end development and back-end development.
-- 💬 In my previous role, I primarily focused on data analysis and statistical treatment of images generated in a four-wave mixing (FWM) setup. This involved utilizing advanced analytical techniques to extract meaningful insights from the collected data. I worked extensively with image processing algorithms and statistical models to analyze and interpret the characteristics of beams generated through FWM.
+- 💬 In my previous role, I primarily focused on data analysis and statistical treatment of beam images generated in a four-wave mixing (FWM) setup. This involved utilizing advanced analytical techniques to extract meaningful insights from the collected data. I worked extensively with image processing algorithms and statistical models to analyze and interpret the characteristics of beams generated through FWM.
 
 ## Skills
 ### Data Science
