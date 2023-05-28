@@ -39,6 +39,11 @@ Additionally, as a beginner developer, I am building my skills as a front-end we
 ![image](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![image](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 
+## Contact me
+
+* <a href="https://www.linkedin.com/in/patrickalyson" target="_blank"> Linkedin</a>
+* <a href="https://patrickdev.netlify.app/" target="_blank"> My personal website</a>
+
 <!--
 **PatrickAlyson/PatrickAlyson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
