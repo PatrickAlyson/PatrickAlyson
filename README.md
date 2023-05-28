@@ -1,11 +1,16 @@
 ### Hi there 👋
 
+Greetings! I'm a physicist with both a Bachelor's and Master's degree, specializing in data analysis, data science, and visualization for more than four years. My primary focus lies in tackling complex analytical problems, developing and enhancing sophisticated mathematical and statistical models, as well as crafting machine learning models for comprehensive data analysis.
+
+Additionally, as a beginner developer, I am building my skills as a front-end web developer. I am familiar with HTML, CSS, JavaScript, React, and NextJS. While I am still developing my understanding of user experience design, I strive to create intuitive and user-friendly interfaces. I am eager to enhance my problem-solving abilities and adapt quickly to new technologies and trends in the industry.
+
+<!-- - 🔭 I’m currently working on my portfolio projects -->
 <!--
 **PatrickAlyson/PatrickAlyson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
+
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
